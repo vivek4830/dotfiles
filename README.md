@@ -12,3 +12,5 @@ Other plugins:
  2. [taglist](http://vim-taglist.sourceforge.net/)
 
 Generate ctags with instructions on their website.
+
+The only thing in ~/.bashrc makes 'ls' have colorful output like default linux. Probably not necessary on linux.
