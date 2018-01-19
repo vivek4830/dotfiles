@@ -6,7 +6,6 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 Plugin 'gmarik/Vundle.vim'
-Plugin 'tomasr/molokai'
 
 " ----- Vim as a programmer's text editor -----
 Plugin 'scrooloose/nerdtree'
@@ -27,6 +26,9 @@ Plugin 'Raimondi/delimitMate'
 
 " ----- Enhanced C++ Syntax Highlighting -----
 Plugin 'octol/vim-cpp-enhanced-highlight'
+
+Plugin 'sjl/badwolf'
+Plugin 'Valloric/YouCompleteMe'
 
 call vundle#end()
 
