@@ -1,0 +1,27 @@
+[submodule "pack/my-plugins/start/ale"]
+	path = pack/my-plugins/start/ale
+	url = git@github.com:w0rp/ale.git
+[submodule "pack/my-plugins/start/awesome-vim-colorschemes"]
+	path = pack/my-plugins/start/awesome-vim-colorschemes
+	url = git@github.com:rafi/awesome-vim-colorschemes.git
+[submodule "pack/my-plugins/start/ctrlp.vim"]
+	path = pack/my-plugins/start/ctrlp.vim
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule "pack/my-plugins/start/delimitMate"]
+	path = pack/my-plugins/start/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
+[submodule "pack/my-plugins/start/nerdcommenter"]
+	path = pack/my-plugins/start/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "pack/my-plugins/start/nerdtree"]
+	path = pack/my-plugins/start/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "pack/my-plugins/start/vim-airline"]
+	path = pack/my-plugins/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "pack/my-plugins/start/vim-gitgutter"]
+	path = pack/my-plugins/start/vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "pack/my-plugins/start/vim-nerdtree-tabs"]
+	path = pack/my-plugins/start/vim-nerdtree-tabs
+	url = git@github.com:jistr/vim-nerdtree-tabs.git
