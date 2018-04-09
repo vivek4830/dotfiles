@@ -12,5 +12,6 @@ cd $BASE_DIR
 cp .tmux.conf.local ~/.tmux.conf.local
 
 # Set up vim
-ln -sf pack ~/.vim/pack
+mkdir -p ~/.vim
+ln -s $BASE_DIR/pack ~/.vim/pack
 cp .vimrc ~/.vimrc
