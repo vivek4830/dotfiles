@@ -25,3 +25,6 @@
 [submodule "pack/my-plugins/start/vim-nerdtree-tabs"]
 	path = pack/my-plugins/start/vim-nerdtree-tabs
 	url = git@github.com:jistr/vim-nerdtree-tabs.git
+[submodule "pack/my-plugins/start/vim-tmux-navigator"]
+	path = pack/my-plugins/start/vim-tmux-navigator
+	url = git@github.com:christoomey/vim-tmux-navigator.git
