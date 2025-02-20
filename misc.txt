@@ -1,0 +1,2 @@
+shell prompt:
+\e[1;34m\u@\h\e[0m:\e[1;32m\w $ \e[0m
